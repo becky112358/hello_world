@@ -1,1 +1,3 @@
 Creating a file on branch branch_for_fun
+This file will conflict in some ways with the file on the other branch.
+But I can resolve the conflict! Yay!
