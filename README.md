@@ -1,8 +1,5 @@
-#hello_world
-This hello_world repository is a sandpit for learning stuff.
+# hello_world
+
+A sandpit for messing around and learning things.
 
 Hello, World! :D
-
-
-Testing some stuff:
-* blah blah \*blah\* `blah`
